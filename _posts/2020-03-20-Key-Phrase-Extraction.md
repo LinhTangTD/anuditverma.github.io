@@ -4,8 +4,6 @@ title: Key Phrase Extraction
 tags: [POSTagger, NLP, keyword extraction, summary, ngram]
 ---
 
-# Key Phrase Extraction
-
 Automatic keyword extraction is an important research topic. Keywords serve as a dense summary for a document, lead to improved information retrieval, or be the entrance to a document collection. The aim of this project is to find a small set of terms that describes a specific document, independently of the domain it belongs to. 
 
 ➤ [Github Repo](https://github.com/LinhTangTD/KeyPhraseExtraction).  
