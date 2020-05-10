@@ -9,12 +9,13 @@ subtitle: "#JustDoIt"
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Hi again, my name is <strong>Linh Tang</strong>. I come from Hanoi, Vietnam. I'm a rising junior majoring in <strong>Computer Science & Economics </strong> from <strong>Grinnell College</strong> with a concentration in <strong>Statistics</strong>. I graduated from Chinese-English class of Hanoi-Amsterdam High School for the Gifted in 2018.
+Hi again, my name is <strong>Linh Tang</strong>. I come from Hanoi, Vietnam and graduated from Chinese-English class of Hanoi-Amsterdam High School for the Gifted in 2018. I'm currently a rising junior majoring in <strong>Computer Science & Economics </strong> from Grinnell College with a concentration in <strong>Statistics</strong>. I also attained the Credential of Readiness by Harvard Business School Online for coursework in Financial Accounting, Business Analytics, and Managerial Economics in 2019.
 </p>
+
 
 <p class="about-text">
 <span class="fa fa-star about-icon"></span>
-During high school, I found and managed <a target="_blank" href= "https://traihekhoahoc.org"> Science Camp Hanoi </a>, the first youth-run, week-long camp in the city that focuses solely on science activities for primary & secondary school students. The camp has been hosted annually since summer 2017, attracting 140 kids all over the countries. I was the director (and web developer) of the camp for the first two seasons before entering college, and has been acting as the counselor for the management board since then.
+During high school, I found and managed <a target="_blank" href= "https://traihekhoahoc.org"> Science Camp Hanoi </a>, the first youth-run, week-long camp in the city that focuses solely on science activities for primary & secondary school students. The camp has been hosted annually since summer 2017, attracting 140 kids all over the countries. I was the director of the camp for the first two seasons before entering college, and has been acting as the counselor for the management board since then.
 </p>
 
 <p class="about-text">
@@ -34,7 +35,7 @@ For Summer 2020, I will be an Engineering Intern at <a target="_blank" href="htt
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-I'm a risk-lover with great passion for problem-solving. I'm a goal-oriented, data-driven programmer that values collaboration, flexibility and creativity. I enjoy working in a diverse, self-motivated and strong-willed environment with a steep learning curve and open-minded attitude. I consider myself a good team player but I also enjoy taking initiatives and leadership. Let’s connect if you want to collab or just to chat more. Follow the social media links given below or <a target="_blank" href="mailto:tanglinh@grinnell.edu">drop me an e-mail</a>.
+I'm a risk-lover with great passion for problem-solving. I'm a goal-oriented, data-driven programmer that values collaboration, flexibility and creativity. I enjoy working in a diverse, self-motivated and strong-willed environment with a steep learning curve and open-minded attitude. Let’s connect if you want to collab or just to chat more. Follow the social media links given below or <a target="_blank" href="mailto:tanglinh@grinnell.edu">drop me an e-mail</a>.
 </p>
 
 <br>
