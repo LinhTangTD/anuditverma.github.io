@@ -27,19 +27,19 @@ description: Nice to meet you!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Apps:
     - Pacman Go Home: "https://linhtangtd.github.io/PacmanGoHome/"
+    - US College Map: "https://linhtang.shinyapps.io/CollegeAdmission/"
+  Projects:
     - Artist Recommender Systems for Twitter User: "https://github.com/LinhTangTD/ArtistRecSysTwitter"
     - Key Phrase Extraction: "https://github.com/LinhTangTD/KeyPhraseExtraction"
     - Random Number Generator: "https://github.com/LinhTangTD/RandomNumberGenerator"
-    - US College Map: "https://linhtang.shinyapps.io/CollegeAdmission/"
     - Summary Generator: "https://github.com/LinhTangTD/SummaryGenerator"
     - Password Cracker: "https://github.com/LinhTangTD/PasswordCracker"
     - Success of 2nd-gen Immigrants Prediction: "https://github.com/LinhTangTD/2ndGenSuccess"
     - Smartwatch for Emotion Regulation: "https://github.com/LinhTangTD/SmartwatchEmotionRegulationApp"
-    - Summary Generator: "https://github.com/LinhTangTD/SummaryGenerator"
     - Topic Modeling: "https://github.com/LinhTangTD/TopicModeling"
-#   Publications: ""
+  Publications: ""
   CV: "resume/LinhTang_Resume.pdf"
 #  Tags: "tags"
 
