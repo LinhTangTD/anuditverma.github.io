@@ -9,13 +9,13 @@ subtitle: "#JustDoIt"
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Hi again, my name is <strong>Linh Tang</strong>. I come from Hanoi, Vietnam and graduated from Chinese-English class of Hanoi-Amsterdam High School for the Gifted in 2018. I'm currently a rising junior majoring in <strong>Computer Science & Economics </strong> from Grinnell College with a concentration in <strong>Statistics</strong>. I also attained the Credential of Readiness by Harvard Business School Online for coursework in Financial Accounting, Business Analytics, and Managerial Economics in 2019.
+Hi, my name is <strong>Linh Tang</strong>. I come from Hanoi, Vietnam and graduated from Chinese-English class of Hanoi-Amsterdam High School for the Gifted in 2018. I'm currently a rising junior majoring in <strong>Computer Science & Economics </strong> from Grinnell College with a concentration in <strong>Statistics</strong>.  I've also attained the Credential of Readiness by Harvard Business School Online for coursework in Financial Accounting, Business Analytics, and Managerial Economics in September 2019.
 </p>
 
 
 <p class="about-text">
 <span class="fa fa-star about-icon"></span>
-During high school, I found and managed <a target="_blank" href= "https://traihekhoahoc.org"> Science Camp Hanoi </a>, the first youth-run, week-long camp in the city that focuses solely on science activities for primary & secondary school students. The camp has been hosted annually since summer 2017, attracting 140 kids all over the countries. I was the director of the camp for the first two seasons before entering college, and has been acting as the counselor for the management board since then.
+During high school, I found and managed <a target="_blank" href= "https://traihekhoahoc.org"> Science Camp Hanoi </a>, the first youth-run, week-long camp in the city that focuses solely on science activities for primary & secondary school students. The camp has been hosted annually since summer 2017, attracting more than 140 kids all over the countries every year. I was the director of the camp for the first two seasons before entering college, and has been acting as the counselor for the management board since then.
 </p>
 
 <p class="about-text">
