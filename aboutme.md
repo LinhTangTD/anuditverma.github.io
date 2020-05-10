@@ -39,7 +39,5 @@ Let’s connect if you want to collab or just to chat more. Follow the social me
 
 <br>
 
-<br><br>
-<center><img src="/img/anudit-meaning.png"></center>
 <br>
-<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
+<center><h3>I'm searching for Summer 2021, Software Engineering Internship! Contact me if you think I'm a good fit! </h3><center>
