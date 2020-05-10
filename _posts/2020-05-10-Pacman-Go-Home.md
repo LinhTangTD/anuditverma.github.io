@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Java] Pacman Go Home
+title: Pacman Go Home
 tags: [pacman, COVID19, pandemic]
 ---
 
