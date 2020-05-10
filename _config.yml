@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.tanglinh.in/"
+url: "https://www.linhtangtd.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -20,26 +20,27 @@ title: Linh Tang
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Let me introduce you to my geek side!
+description: Nice to meet you!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Recommends: "books"
-  Publications:
-    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
-    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-    - ResearchGate Profile: "https://www.researchgate.net/profile/Anudit_Verma"
-  Projects:
-    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-    - Contract Reader Tool (EY Hackathon): "https://www.moneycontrol.com/news/technology/ey-hackathon-winners-develop-tax-compliance-solutions-with-automation-2439821.html"
-    - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
-    - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
-    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   About Me: "aboutme"
-  Resume | CV: "resume/Anudit_Verma.pdf"
+  Projects:
+    - Pacman Go Home: "https://linhtangtd.github.io/PacmanGoHome/"
+    - Artist Recommender Systems for Twitter User: "https://github.com/LinhTangTD/ArtistRecSysTwitter"
+    - Key Phrase Extraction: "https://github.com/LinhTangTD/KeyPhraseExtraction"
+    - Random Number Generator: "https://github.com/LinhTangTD/RandomNumberGenerator"
+    - US College Map: "https://linhtang.shinyapps.io/CollegeAdmission/"
+    - Summary Generator: "https://github.com/LinhTangTD/SummaryGenerator"
+    - Password Cracker: "https://github.com/LinhTangTD/PasswordCracker"
+    - Success of 2nd-gen Immigrants Prediction: "https://github.com/LinhTangTD/2ndGenSuccess"
+    - Smartwatch for Emotion Regulation: "https://github.com/LinhTangTD/SmartwatchEmotionRegulationApp"
+    - Summary Generator: "https://github.com/LinhTangTD/SummaryGenerator"
+    - Topic Modeling: "https://github.com/LinhTangTD/TopicModeling"
+#   Publications: ""
+  CV: "resume/LinhTang_Resume.pdf"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -74,23 +75,25 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-# rss: false
-# email: "someone@example.com"
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
-# reddit: yourname
-  linkedin: anuditverma
-# xing: yourname
-# stackoverflow: 4590331/anudit-verma
-# snapchat: yourname
-  instagram: anuditverma
-# youtube: user/yourname
-# spotify: yourname
-# telephone: +1-(000)-000-0000
-# steam: yourname
-# twitch: yourname
-# yelp: yourname
+  email: "tanglinh@grinnell.edu"
+  facebook: tangtrandieulinh
+  github: LinhTangTD
+#   twitter: daattali
+#   rss: true
+#  reddit: yourname
+  linkedin: linh-td-tang
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+  instagram: linh_nemoo
+#  youtube: user/deanat78
+#  spotify: yourname
+  telephone: +16417585471
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -101,15 +104,15 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.anudit.in"
+url-pretty: "www.linhtangtd.github.io"
+
+# Create a "tags" index page and make tags on each post clickable
+link-tags: true
 
 # --- Misc --- #
 
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
-
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+# google_analytics: 
 
 # Google Tag Manager ID
 #gtm: ""
@@ -128,7 +131,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Kolkata"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -146,7 +149,8 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: true # add social media sharing buttons to all blog post
+      readtime: false # add estimated reading time on all blog posts
   -
     scope:
       path: "" # all files
