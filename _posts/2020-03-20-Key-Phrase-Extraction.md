@@ -1,4 +1,10 @@
-# KeyPhraseExtraction
+---
+layout: post
+title: [Java] Key Phrase Extraction
+tags: [POSTagger, NLP, keyword extraction, summary, ngram]
+---
+
+# [KeyPhraseExtraction](https://github.com/LinhTangTD/KeyPhraseExtraction)
 
 Automatic keyword extraction is an important research topic. Keywords serve as a dense summary for a document, lead to improved information retrieval, or be the entrance to a document collection. The aim of this project is to find a small set of terms that describes a specific document, independently of the domain it belongs to. 
 
