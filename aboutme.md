@@ -1,50 +1,49 @@
 ---
 layout: page
-title: About Anudit Verma
-meta-title: About me
-subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
+title: About Linh Tang
+meta-title: About Me
+subtitle: "#JustDoIt"
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor and developer living in Long Beach, California, US.
+  Hi again, my name is <strong>Linh Tang</strong>. I come from Hanoi, Vietnam. I'm a risk-lover with great passion for problem-solving.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Technology</strong> degree in Computer Science & Engineering from University School of Information, Communication & Technology in New Delhi, India. I am currently pursuing a <strong>Master of Science in Computer Science</strong> degree from California State University Long Beach.
+	I'm a rising junior majoring in <strong>Computer Science & Economics </strong> from <strong>Grinnell College</strong> with a concentration in <strong>Statistics</strong>. I graduated from Hanoi-Amsterdam High School for the Gifted in 2018.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
+I started learning how to code since my second semester in college. I love developing software and apps that can come in handy. I'm comfortable with different languages such as <strong> Java, Python, C/C++, R </strong> across multiple platforms like <strong>macOS or Linux</strong>. Check out the <strong>Apps</strong> and <strong>Projects</strong> tabs at the top of the page to see some of my product.
 </p>
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/year_in_books/2018/82771249">here</a>. Make sure to add some of them in your future reading list.
+Last summer, I was awarded a research grant from Grinnell College to conduct summer research on Recommender Systems. My project focused on <strong>recommending music artists for Twitter users</strong>. It was presented at <a target="_blank" href= "https://ccscmw2019.aiello.io">Consortium for Computing Sciences in College Midwest and won the <strong>First Prize</strong> in Student Poster Showcase. The paper has recently been accepted as short papers at the <a target="_blank" href="https://www.flairs-33.info/home">33rd International FLAIRS (Florida Artificial Intelligence Research Society) Conference</a> and will be published in the proceedings with AAAI Press in upcoming weeks.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music and occasional cooking. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, and gaming meet-ups.
+I'm a goal-oriented, data-driven programmer that values collaboration, flexibility and creativity. I enjoy working in a diverse, self-motivated and strong-willed environment with a steep learning curve and open-minded attitude. I consider myself a good team player but I also enjoy taking initiatives and leadership.
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab something awesome in the world of open-source tech. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
+Let’s connect if you want to collab or just to chat more. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
 </p>
 
 
 <center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<a href="https://github.com/LinhTangTD" class="github-follow-button" data-size="large" data-show-count="false">Follow @LinhTangTD</a>
+	<script async src="//h3h.github.io/github-repo-widget/widget.js" charset="utf-8"></script>
 </center>
 <br>
 
-Oh, and one more thing, if you are wondering about the meaning of my name, well...
 <br><br>
 <center><img src="/img/anudit-meaning.png"></center>
 <br>
