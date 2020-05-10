@@ -1,110 +1,59 @@
 ---
 layout: post
-title: videojs-overlay-hyperlink
-tags: [videojs, videojs-plugin, video]
+title: Pacman Go Home
+tags: [pacman, COVID19, pandemic]
 ---
 
+<p align="center"><img src="https://github.com/LinhTangTD/PacmanGoHome/blob/master/logo.png"/></p>
 
-A simple video.js plugin to display hyperlinks during video playback using overlays. This plugin is built upon popular video.js plugin called videojs-overlay.<br>
+# Pacman Go Home
 
-## Static Preview
+PacmanGoHome is an educational game, based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com). During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
 
-<center><img src="/img/videojs-hyperlink-screenshot.jpg"></center>
+The game is developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for `CSC207: Object-oriented programming, data structures, and algorithms` class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. For more information, please refer to:
 
-### Live Demo: [Link](https://rawgit.com/anuditverma/videojs-overlay-hyperlink/master/index.html)
+  ➤ [Video demo of PacmanGoHome](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
+  
+  ➤ [Presentation](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf)
 
-## Download
-Click [here](https://github.com/anuditverma/videojs-overlay-hyperlink/releases) to download __videojs-overlay-hyperlink__ or `git clone` it into your production directory.
+## How to play?
+Users can control Pacman with their 4 cursors keys to avoid viruses and try to reach home. There are three initial lives. In the maze, there are one mask and hospital, each can save Pacman one life. There is also an infected Pacman, having contact with him or virus costs Pacman one life. The game has two levels. The second level is more challenging as the number of viruses is double and moving faster, representing the real-time unexpectedly fast and widespread waves of COVID-19.
 
-```ssh
-git clone https://github.com/anuditverma/videojs-overlay-hyperlink.git
-```
+<p align="center"><img src="https://github.com/LinhTangTD/PacmanGoHome/blob/master/demo_gif.gif" width="360" height="410"/></p>
 
-## Getting Started
+## Installation & Usage
 
-First of all, import the plugin's javascript and css files into your webpage.
-```html
-<!-- js -->
-<script src="path/to/js/video.js"></script>
-<script src="path/to/js/videojs-overlay-hyperlink.js"></script>
+If you are not a developer, please download the appropriate version of the game corresponding to your operating system. Currently, we are supporting `macOS` and `Windows` users with minimum `Java 12` installed. We plan to support the `Linux` system in the near future. 
 
-<!-- css -->
-<link href="path/to/css/video-js.css" rel="stylesheet">
-<link href="path/to/videojs-overlay-hyperlink.css" rel="stylesheet">
-```
+  ➤ [Download PacmanGoHome for macOS](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome_MacOS.zip)
+  
+  ➤ [Download PacmanGoHome for Windows](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome_Windows.zip)
+  
+  ➤ [Install the latest Java version](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-After importing, your HTML document should look something like [this](https://github.com/anuditverma/videojs-overlay-hyperlink/blob/master/index.html).
+After downloading the compressed file, unzip the folder using unarchiver softwares in your device. For macOS users, please change your `Security & Privacy` in `System Preferences` to allow the `PacmanGoHome.app` to run. For Windows users, click on `PacmanGoHome.exe` to play the game.
 
-## Define Hyperlink
+## For Developers
 
-Add another javascript to define your target hyperlink, just assign `yourLink` variable with your preferred value. 
+  ➤ [Source code & resources](https://github.com/LinhTangTD/PacmanGoHome/tree/master/src).  
+  
+  ➤ [Explanation of development flows & algorithms.](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf).
+  
+We use [Eclipse IDE](https://www.eclipse.org/) to build and test the program. If you want to run using command-line tools (java, javac), please refer to this [article](https://www.codejava.net/java-core/tools/how-to-compile-package-and-run-a-java-program-using-command-line-tools-javac-jar-and-java) for help.
 
-```js
-<script type='text/javascript'>
-  var yourLink = "https://www.google.com/search?q=documentaries+on+oceans";
-</script>
-```
-## Configure Setup
+The main method is saved at ```PacmanGoHome.java``` together with the initialization of the GUI. The ```screen.java``` contains all other implementations of the game. All the code has been well-documented. 
 
-The main section of your setup, where you can configure the positioning and duration of the hyperlink.
+## Contributing
+The demo version of the game can be found in this repository. Please note that the game is still in progress of development.
 
-```js
-<script>
-    (function(window, videojs) {
-        var player = window.player = videojs('videojs-overlay-player');
-        player.overlay({
-            content: '<a href=# onclick="location.href=yourLink;return false;">Checkout More Documentaries on Oceans</a>',
-            debug: true,
-            overlays: [{
-                start: 0,
-                end: 15,
-                align: 'bottom-left'
-            }, {
-                start: 15,
-                end: 30,
-                align: 'bottom'
-            }, {
-                start: 30,
-                end: 45,
-                align: 'bottom-right'
-            }]
-        });
-    }(window, window.videojs));
-</script>
-```
-### Meaning of the plugin options:
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#### `content`
+## Author & Contacts
+[Linh Tang](https://github.com/LinhTangTD) - email: tanglinh@grinnell.edu
 
-__Type:__ `String`, `Element`, `DocumentFragment`
-__Default:__ `"This overlay will show up while the video is playing"`
+[Yolanda Jiang](https://github.com/yolandajhzm) - email: jianghui@grinnell.edu
 
-_This setting can be overridden by being set on individual overlay objects._
+## References
+[Java Pacman Tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/)
 
-The default HTML that the overlay includes.
-
-#### `overlays`
-
-__Type:__ `Array`
-__Default:__ an array with a single example overlay
-
-An array of overlay objects. Here you can define your hyperlink name, and this overlay object should consist of:
-
-- `start` (`String` or `Number`): When to show the overlay. If its value is a string, it is understood as the name of an event. If it is a number (in seconds), the overlay will be shown when that moment in the playback timeline is passed.
-- `end` (`String` or `Number`): When to hide the overlay. The values of this property have the same semantics as `start`.
-
-#### `align`
-
-__Type:__ `String`
-__Default:__ `"top-left"`
-
-_This setting can be overridden by being set on individual overlay objects._
-
-Where to display overlays, by default. Assuming the included stylesheet is used, the following values are supported: `"top-left"`, `"top"`, `"top-right"`, `"right"`, `"bottom-right"`, `"bottom"`, `"bottom-left"`, `"left"`.
-
-
-## See also:
-- Highly customizable video player framework, [video.js](http://videojs.com/).
-- Similar video.js [plugins and skins](http://videojs.com/plugins/).
-
-Thank you for reading.
+[Original Pacman Music & Sound Effects](https://www.classicgaming.cc/classics/pac-man/sounds)
