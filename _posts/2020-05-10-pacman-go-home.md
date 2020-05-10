@@ -4,9 +4,9 @@ title: Pacman Go Home
 tags: [pacman, COVID19, pandemic]
 ---
 
-<p align="center"><img src="https://github.com/LinhTangTD/PacmanGoHome/blob/master/logo.png"/></p>
+<p align="center"><img src="//github.com/LinhTangTD/PacmanGoHome/blob/master/logo.png"/></p>
 
-# Pacman Go Home
+# [Pacman Go Home](https://linhtangtd.github.io/PacmanGoHome/)
 
 PacmanGoHome is an educational game, based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com). During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
 
@@ -19,7 +19,7 @@ The game is developed in Java by [Linh Tang](https://github.com/LinhTangTD) and 
 ## How to play?
 Users can control Pacman with their 4 cursors keys to avoid viruses and try to reach home. There are three initial lives. In the maze, there are one mask and hospital, each can save Pacman one life. There is also an infected Pacman, having contact with him or virus costs Pacman one life. The game has two levels. The second level is more challenging as the number of viruses is double and moving faster, representing the real-time unexpectedly fast and widespread waves of COVID-19.
 
-<p align="center"><img src="https://github.com/LinhTangTD/PacmanGoHome/blob/master/demo_gif.gif" width="360" height="410"/></p>
+<p align="center"><img src="//github.com/LinhTangTD/PacmanGoHome/blob/master/demo_gif.gif" width="360" height="410"/></p>
 
 ## Installation & Usage
 
@@ -35,7 +35,7 @@ After downloading the compressed file, unzip the folder using unarchiver softwar
 
 ## For Developers
 
-  ➤ [Source code & resources](https://github.com/LinhTangTD/PacmanGoHome/tree/master/src).  
+  ➤ [Github Repo](https://github.com/LinhTangTD/PacmanGoHome).  
   
   ➤ [Explanation of development flows & algorithms.](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf).
   
