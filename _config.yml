@@ -39,7 +39,13 @@ navbar-links:
     - Success of 2nd-gen Immigrants Prediction: "https://github.com/LinhTangTD/2ndGenSuccess"
     - Smartwatch for Emotion Regulation: "https://github.com/LinhTangTD/SmartwatchEmotionRegulationApp"
     - Topic Modeling: "https://github.com/LinhTangTD/TopicModeling"
-  Publications: ""
+  Writing: 
+    - Effects of College Debt on Income: "Writing/Effect of College Debts on Earning.pdf"
+    - Predicting Success of US Second-Generation Immigrants: "Writing/Success 2nd_Gen Immigrants.pdf"
+    - Impacts of Plateauing Educational Attainment on Economy: "Writing/Plateauing Educational Attainment.pdf"
+    - Nanobot: "Writing/Nanobot.pdf"
+  Publication:
+    - FLAIRS 33 (First Author): "Writing/CAARS.pdf"
   Resume/CV: "resume/LinhTang_Resume.pdf"
 #  Tags: "tags"
 
@@ -59,7 +65,7 @@ navbar-links:
 navbar-col: "#F5F5F5"
 navbar-text-col: "#F8F4EB"
 navbar-border-col: "#EAEAEA"
-page-col: "#BB3B17"
+page-col: "#F8F4EB"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -107,7 +113,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.linhtangtd.github.io"
+# url-pretty: "www.linhtangtd.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
