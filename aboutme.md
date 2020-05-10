@@ -20,7 +20,7 @@ During high school, I found and managed <a target="_blank" href= "https://traihe
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I started learning how to code since 2019, my second semester in college. I love developing software and apps that can come in handy. I'm comfortable with different languages such as <strong> Java, Python, C/C++, R </strong> across multiple platforms. Check out the <strong>Apps</strong> and <strong>Projects</strong> tabs at the top of the page to see some of my products.
+I started learning Computer Science since 2019, my second semester in college. I love developing software and apps that can come in handy. I'm comfortable with different languages such as <strong> Java, Python, C/C++, R </strong> across multiple platforms. Check out the <strong>Apps</strong> and <strong>Projects</strong> tabs at the top of the page to see some of my products.
 </p>
 
 <p class="about-text">
@@ -30,7 +30,7 @@ In Summer 2019, I was awarded a research grant from Grinnell College to work at 
 
 <p class="about-text">
 <span class="fa fa-calendar about-icon"></span>
-For Summer 2020, I will be an Engineering Intern at <a target="_blank" href="https://www.vinai.io/"> VinAI Research</a>, the top AI research lab in Vietnam. I am also awarded a research grant to work on statistics education project Stat2Lab this summer, a NSF program led by professor Shonda Kuiper at Grinnell College. I will be responsible for developing new educational games on Unity that enables students to apply statistical analysis into playing strategy. Recently, I was admitted to Goldman Sachs 2020 Engineering Essentials and will be attending this program in June.
+For Summer 2020, I will be an Engineering Intern at <a target="_blank" href="https://www.vinai.io/"> VinAI Research</a>, the top AI research lab in Vietnam. I am also awarded a research grant starting this May, to work for the statistics education project Stat2Lab, a NSF program led by professor Shonda Kuiper at Grinnell College. I will be responsible for developing new educational games on Unity that enable students to apply statistical analysis into playing strategy. Recently, I was also admitted to Goldman Sachs 2020 Engineering Essentials and will be attending this program in June.
 </p>
 
 <p class="about-text">
