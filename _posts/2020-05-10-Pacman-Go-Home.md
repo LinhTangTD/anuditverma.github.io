@@ -6,12 +6,14 @@ tags: [pacman, COVID19, pandemic]
 
 <p align="center"><img src="../img/logo.png"/></p>
 
-# [Pacman Go Home](https://linhtangtd.github.io/PacmanGoHome/)
+# Pacman Go Home
 
 PacmanGoHome is an educational game, based on the original Pacman [game tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/) from [Zetcode](http://zetcode.com). During this pandemic time, people need to learn how to protect themselves from coronavirus. The key is to stay home, wear masks while going out, and avoid contacting infected people. Therefore, the purpose of this game is to deliver this message to the players. We hope people can learn while playing PacmanGoHome.
 
 The game is developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for `CSC207: Object-oriented programming, data structures, and algorithms` class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. For more information, please refer to:
-
+  
+  ➤ [Github Repo](https://github.com/LinhTangTD/PacmanGoHome). 
+  
   ➤ [Video demo of PacmanGoHome](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
   
   ➤ [Presentation](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf)
@@ -35,7 +37,7 @@ After downloading the compressed file, unzip the folder using unarchiver softwar
 
 ## For Developers
 
-  ➤ [Github Repo](https://github.com/LinhTangTD/PacmanGoHome).  
+  ➤ [Source code & resources](https://github.com/LinhTangTD/PacmanGoHome/tree/master/src).  
   
   ➤ [Explanation of development flows & algorithms.](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf).
   
