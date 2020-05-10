@@ -12,7 +12,7 @@ PacmanGoHome is an educational game, based on the original Pacman [game tutorial
 
 The game is developed in Java by [Linh Tang](https://github.com/LinhTangTD) and [Yolanda Jiang](https://github.com/yolandajhzm) as the final project for `CSC207: Object-oriented programming, data structures, and algorithms` class at [Grinnell College](https://www.grinnell.edu/) during Spring 2020. For more information, please refer to:
   
-  ➤ [Github Repo](https://github.com/LinhTangTD/PacmanGoHome). 
+  ➤ [Official Website](https://linhtangtd.github.io/PacmanGoHome/). 
   
   ➤ [Video demo of PacmanGoHome](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
   
@@ -45,17 +45,7 @@ We use [Eclipse IDE](https://www.eclipse.org/) to build and test the program. If
 
 The main method is saved at ```PacmanGoHome.java``` together with the initialization of the GUI. The ```screen.java``` contains all other implementations of the game. All the code has been well-documented. 
 
-## Contributing
-The demo version of the game can be found in this repository. Please note that the game is still in progress of development.
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Author & Contacts
 [Linh Tang](https://github.com/LinhTangTD) - email: tanglinh@grinnell.edu
 
 [Yolanda Jiang](https://github.com/yolandajhzm) - email: jianghui@grinnell.edu
-
-## References
-[Java Pacman Tutorial](http://zetcode.com/tutorials/javagamestutorial/pacman/)
-
-[Original Pacman Music & Sound Effects](https://www.classicgaming.cc/classics/pac-man/sounds)
