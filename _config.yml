@@ -30,6 +30,7 @@ navbar-links:
   Apps:
     - Pacman Go Home: "https://linhtangtd.github.io/PacmanGoHome/"
     - US College Map: "https://linhtang.shinyapps.io/CollegeAdmission/"
+    - Science Camp Hanoi: "https://traihekhoahoc.org/"
   Projects:
     - Artist Recommender Systems for Twitter User: "https://github.com/LinhTangTD/ArtistRecSysTwitter"
     - Key Phrase Extraction: "https://github.com/LinhTangTD/KeyPhraseExtraction"
