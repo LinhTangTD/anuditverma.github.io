@@ -14,7 +14,7 @@ The game is developed in Java by [Linh Tang](https://github.com/LinhTangTD) and 
   
   ➤ [Official Website](https://linhtangtd.github.io/PacmanGoHome/). 
   
-  ➤ [Video demo of PacmanGoHome](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
+  ➤ [Video demo](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
   
   ➤ [Presentation](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf)
 
