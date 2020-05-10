@@ -20,7 +20,7 @@ During high school, I found and managed <a target="_blank" href= "https://traihe
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I started learning how to code since 2019, my second semester in college. I love developing software and apps that can come in handy. I'm comfortable with different languages such as <strong> Java, Python, C/C++, R </strong> across multiple platforms <strong>macOS, Linux</strong>). Check out the <strong>Apps</strong> and <strong>Projects</strong> tabs at the top of the page to see some of my products.
+I started learning how to code since 2019, my second semester in college. I love developing software and apps that can come in handy. I'm comfortable with different languages such as <strong> Java, Python, C/C++, R </strong> across multiple platforms. Check out the <strong>Apps</strong> and <strong>Projects</strong> tabs at the top of the page to see some of my products.
 </p>
 
 <p class="about-text">
