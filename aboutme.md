@@ -24,7 +24,7 @@ I started learning how to code since my second semester in college. I love devel
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-Last summer, I was awarded a research grant from Grinnell College to conduct summer research on Recommender Systems. My project focused on <strong>recommending music artists for Twitter users</strong>. It was presented at <a target="_blank" href= "https://ccscmw2019.aiello.io">Consortium for Computing Sciences in College Midwest and won the <strong>First Prize</strong> in Student Poster Showcase. The paper has recently been accepted as short papers at the <a target="_blank" href="https://www.flairs-33.info/home">33rd International FLAIRS (Florida Artificial Intelligence Research Society) Conference</a> and will be published in the proceedings with AAAI Press in upcoming weeks.
+Last summer, I was awarded a research grant from Grinnell College to conduct summer research on Recommender Systems. My project focused on <strong>recommending music artists for Twitter users</strong>. It was presented at <a target="_blank" href= "https://ccscmw2019.aiello.io">Consortium for Computing Sciences in College Midwest</a> and won the <strong>First Prize</strong> in Student Poster Showcase. The paper has recently been accepted as short papers at the <a target="_blank" href="https://www.flairs-33.info/home">33rd International FLAIRS (Florida Artificial Intelligence Research Society) Conference</a> and will be published in the proceedings with AAAI Press in upcoming weeks.
 </p>
 
 <p class="about-text">
@@ -34,14 +34,9 @@ I'm a goal-oriented, data-driven programmer that values collaboration, flexibili
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab or just to chat more. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
+Let’s connect if you want to collab or just to chat more. Follow the social media links given below or <a target="_blank" href="mailto:tanglinh@grinnell.edu">drop me an e-mail</a>.
 </p>
 
-
-<center>
-	<a href="https://github.com/LinhTangTD" class="github-follow-button" data-size="large" data-show-count="false">Follow @LinhTangTD</a>
-	<script async src="//h3h.github.io/github-repo-widget/widget.js" charset="utf-8"></script>
-</center>
 <br>
 
 <br><br>
