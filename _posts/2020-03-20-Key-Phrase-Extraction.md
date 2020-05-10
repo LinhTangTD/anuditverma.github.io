@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Java] Key Phrase Extraction
+title: Key Phrase Extraction
 tags: [POSTagger, NLP, keyword extraction, summary, ngram]
 ---
 
