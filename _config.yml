@@ -33,7 +33,7 @@ navbar-links:
     - Impacts of Plateauing Educational Attainment on Economy: "Writing/Plateauing Educational Attainment.pdf"    
     - Artist Recommender System (FLAIRS_33 Proceedings): "Writing/CAARS.pdf"
   About Me: "aboutme"
-  Apps: "app"
+  Apps:
     - Pacman Go Home: "https://linhtangtd.github.io/PacmanGoHome/"
     - US College Map: "https://linhtang.shinyapps.io/CollegeAdmission/"
     - Science Camp Hanoi: "https://traihekhoahoc.org/"
