@@ -12,36 +12,12 @@ The game is developed in Java by [Linh Tang](https://github.com/LinhTangTD) and 
   
   ➤ [Official Website](https://linhtangtd.github.io/PacmanGoHome/). 
   
-  ➤ [Video demo](https://drive.google.com/open?id=10DFG39CY1ilI5htYoLHSEVTmPcexf5cd).
-  
-  ➤ [Presentation](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf)
+  ➤ [Github](https://github.com/LinhTangTD/PacmanGoHome).
 
 ## How to play?
 Users can control Pacman with their 4 cursors keys to avoid viruses and try to reach home. There are three initial lives. In the maze, there are one mask and hospital, each can save Pacman one life. There is also an infected Pacman, having contact with him or virus costs Pacman one life. The game has two levels. The second level is more challenging as the number of viruses is double and moving faster, representing the real-time unexpectedly fast and widespread waves of COVID-19.
 
 <p align="center"><img src="../img/demo_gif.gif" width="360" height="410"/></p>
-
-## Installation & Usage
-
-If you are not a developer, please download the appropriate version of the game corresponding to your operating system. Currently, we are supporting `macOS` and `Windows` users with minimum `Java 12` installed. We plan to support the `Linux` system in the near future. 
-
-  ➤ [Download PacmanGoHome for macOS](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome_MacOS.zip)
-  
-  ➤ [Download PacmanGoHome for Windows](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome_Windows.zip)
-  
-  ➤ [Install the latest Java version](https://www.oracle.com/java/technologies/javase-downloads.html)
-
-After downloading the compressed file, unzip the folder using unarchiver softwares in your device. For macOS users, please change your `Security & Privacy` in `System Preferences` to allow the `PacmanGoHome.app` to run. For Windows users, click on `PacmanGoHome.exe` to play the game.
-
-## For Developers
-
-  ➤ [Source code & resources](https://github.com/LinhTangTD/PacmanGoHome/tree/master/src).  
-  
-  ➤ [Explanation of development flows & algorithms.](https://github.com/LinhTangTD/PacmanGoHome/blob/master/PacmanGoHome.pdf).
-  
-We use [Eclipse IDE](https://www.eclipse.org/) to build and test the program. If you want to run using command-line tools (java, javac), please refer to this [article](https://www.codejava.net/java-core/tools/how-to-compile-package-and-run-a-java-program-using-command-line-tools-javac-jar-and-java) for help.
-
-The main method is saved at ```PacmanGoHome.java``` together with the initialization of the GUI. The ```screen.java``` contains all other implementations of the game. All the code has been well-documented. 
 
 ## Author & Contacts
 [Linh Tang](https://github.com/LinhTangTD) - email: tanglinh@grinnell.edu
