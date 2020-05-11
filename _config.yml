@@ -27,11 +27,11 @@ description: Hanoi | Grinnell
 # List of links in the navigation bar
 navbar-links:
   Writing: 
-    - Artist Recommender System @FLAIRS_33 Proceedings: "Writing/CAARS.pdf"
+    - Nanobot: "Writing/Nanobot.pdf"
     - Effects of College Debt on Income: "Writing/Effect of College Debts on Earning.pdf"
     - Predicting Success of U.S. Second-Generation Immigrants: "Writing/Success 2nd_Gen Immigrants.pdf"
-    - Impacts of Plateauing Educational Attainment on Economy: "Writing/Plateauing Educational Attainment.pdf"
-    - Nanobot: "Writing/Nanobot.pdf"
+    - Impacts of Plateauing Educational Attainment on Economy: "Writing/Plateauing Educational Attainment.pdf"    
+    - Artist Recommender System (FLAIRS_33 Proceedings): "Writing/CAARS.pdf"
   About Me: "aboutme"
   Apps:
     - Pacman Go Home: "https://linhtangtd.github.io/PacmanGoHome/"
